@@ -64,6 +64,7 @@ body {
     border-radius: 20px;
     font-style: oblique;
     line-height: 30px;
+    box-sizing: border-box;
     
 }
 
@@ -76,6 +77,7 @@ body {
     border-radius: 20px;
     font-style: oblique;
     line-height: 30px;
+    box-sizing: border-box;
 }
 
 .tata-nilai{
@@ -87,6 +89,7 @@ body {
     border-radius: 20px;
     font-style: oblique;
     line-height: 30px;
+    box-sizing: border-box;
 }
 .logo-akhlak {
     width: 50%;
