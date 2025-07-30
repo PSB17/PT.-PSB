@@ -53,10 +53,17 @@ body {
 
 
 .visi-misi {
-    margin: auto;
+    font-style: oblique;
     justify-content: center;
-    text-align: justify;
-    align-items: center;
+    text-align: center;
+    list-style: none;
 
 }
 
+.Copyright {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid black;
+    height: 1px;
+}
